@@ -1,1 +1,4 @@
 # Project--Air-BnB-Data
+In this project, I have collected and analyzed data related to the New York apartment market, with a particular focus on Airbnb rentals. This involves sourcing data from various sources, such as the Airbnb_original.csv dataset, and potentially conducting additional research to gather more information. After I have collected and analyzed the data, I use data science skills to determine the optimal price for my Airbnb rental. This involves using statistical modeling techniques or machine learning algorithms to identify patterns and trends in the data and make accurate predictions about the ideal price point.
+
+Overall, my main responsibility in this project is to leverage data science skills and knowledge to make informed and effective decisions about pricing Airbnb rental. This requires a combination of technical expertise, critical thinking, and strong communication skills to ensure that the analysis is accurate and actionable.
